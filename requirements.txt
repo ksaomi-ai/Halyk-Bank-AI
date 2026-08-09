@@ -1,0 +1,14 @@
+python>=3.10
+pip>=23
+
+pandas>=2.0
+numpy>=1.25
+python-dotenv>=1.0.0
+jsonschema>=4.0.0
+
+# optional (for LLM use)
+openai>=1.0.0
+anthropic>=1.0.0
+transformers>=4.40.0
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
